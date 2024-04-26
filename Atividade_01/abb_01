@@ -1,0 +1,14 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+#define Maxvector_tree 100
+
+typedef struct abb {
+
+} Abb;
+
+int main () {
+
+
+    return 0;
+}
